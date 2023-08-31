@@ -1,0 +1,35 @@
+body {
+    background-color: #ccc;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+}
+
+.details2 a {
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+
+.details2 a:hover {
+    color: rgb(123, 123, 201);
+    cursor: pointer;
+}
+
+.details1 {
+    color: rgb(123, 123, 201);
+}
+
+.details1,
+.details2 {
+    margin: auto;
+    font-size: larger;
+}
+
+.icerik {
+    text-align: center;
+}
