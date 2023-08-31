@@ -1,1 +1,1 @@
-# Beginner-Examples
+# Bu proje JavaScript Beginner seviyesinde yapılması gereken uygulamaları gerçekleştirmek için oluşturulmuş bir proje dosyasıdır.
